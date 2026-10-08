@@ -1,0 +1,6 @@
+{
+  "name": "مطعم أبو علي للمأكولات المشوية",
+  "description": "الموقع الرسمي لمطعم أبو علي للمأكولات المشوية في دندرة، مركز قنا. أصالة المشويات والطعم الأصيل، قائمة الطعام، الصور، والطلب المباشر.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
